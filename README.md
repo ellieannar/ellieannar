@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @ellieannar
-- 👀 I’m interested in ios app development
-- 🌱 I’m currently learning swift and c++
+- 👋Hi, I’m @ellieannar
+
 
 <!---
 ellieannar/ellieannar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
