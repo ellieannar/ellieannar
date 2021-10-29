@@ -1,5 +1,14 @@
-- 👋Hi, I’m @ellieannar
+<h1> Hi, I’m @ellieannar </h1>
 
+I have experience in Mobile Application Development
+
+See: [Scholarship Ready](https://apps.apple.com/us/app/scholarship-ready/id1536077079)
+
+Proficient in...
+- Swift
+- Python 
+- Java
+- Learning C++
 
 <!---
 ellieannar/ellieannar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
