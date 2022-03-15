@@ -1,7 +1,5 @@
 <h1> Hi, I’m @ellieannar </h1>
 
-I have experience in Mobile Application Development
-
 See: [Scholarship Ready](https://apps.apple.com/us/app/scholarship-ready/id1536077079)
 
 Proficient in...
