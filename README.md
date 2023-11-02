@@ -1,5 +1,7 @@
 <h1> Hi, I’m @ellieannar </h1>
-<h4>Thrid year university student majoring in Computer Science</h4>
+
+
+Thrid year university student majoring in Computer Science
 
 
 Proficient in...
