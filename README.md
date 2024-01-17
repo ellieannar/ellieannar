@@ -1,14 +1,4 @@
-<h1> Hi, I’m @ellieannar </h1>
 
-
-Thrid year university student majoring in Computer Science
-
-
-Proficient in...
-- Python
-- Java
-- C++
-- Swift
 
 <!---
 ellieannar/ellieannar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
